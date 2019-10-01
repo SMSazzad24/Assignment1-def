@@ -1,0 +1,124 @@
+.border{
+	width: 800px;
+	height: 500px;
+	background-color: #581845 ;
+}
+.header{
+		width: 800px;
+	height: 50px;
+	background-color: #2ECC71 ;
+}
+.header1{
+	position: relative;
+	top:25px;
+	left: 400px;
+}
+.navigation{
+	width: 800px;
+	height: 30px;
+	background-color:#58D68D ;
+}
+.home{
+	width: 264px;
+	height: 28px;
+	background-color:#48C9B0 ;
+	text-align: center;
+	margin: 1px;
+	float: left;
+}
+.myself{
+	width: 264px;
+	height: 28px;
+	background-color: #48C9B0 ;
+	margin: 1px;
+	text-align: center;
+	float: left;
+}
+.contact{
+	width: 264px;
+	height: 28px;
+	background-color: #48C9B0 ;
+	text-align: center;
+	margin: 1px;
+	float:left;
+}
+.contaner{
+	width: 800px;
+	height:400px;
+	background-color: red;
+}
+.first{
+	width: 100px;
+	height: 400px;
+	background-color: #28B463 ;
+	float: left;
+}
+.birth{
+	width: 100px;
+	height: 77px;
+	background-color: #82E0AA;
+	margin:3px;
+	text-align: center;
+	float:bottom;
+}
+.family{
+	width: 100px;
+	height: 77px;
+	background-color: #82E0AA;
+	margin: 3px;
+	text-align: center;
+	float:bottom;
+}
+.study{
+	width: 100px;
+	height: 77px;
+	background-color: #82E0AA;
+	margin: 3px;
+	text-align: center;
+	float:bottom;
+}
+.hobbies{
+	width: 100px;
+	height: 77px;
+	background-color: #82E0AA;
+	margin: 3px;
+	text-align: center;
+	top:50px;
+	float:bottom;
+}
+.future{
+	width: 100px;
+	height: 77px;
+	background-color: #82E0AA;
+	margin: 3px;
+	text-align: center;
+	float:bottom;
+}
+.middle{
+	width: 350px;
+	height: 400px;
+	background-color: #52BE80 ;
+	text-align: center;
+	float: left;
+}
+.im1{ 
+     width=200px;
+     height=200px;
+    border-radius: 30%;
+    float: center;
+    
+}
+.last{
+	width: 350px;
+	height: 400px;
+	background-color: #28B463;
+	float: right;
+	
+	
+}
+.footer{
+	width: 800px;
+	height: 50px;
+	background-color: #2ECC71 ;
+	text-align: center;
+}
